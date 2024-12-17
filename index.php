@@ -1,7 +1,7 @@
 <?php
  // Fonction principale pour afficher le message
 function main() {
- echo "Bonsoir à tous!";
+ echo "Bienvenue la L3GL!";
 }
 // Appel de la fonction principale
 main();
